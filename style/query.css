@@ -1,0 +1,33 @@
+@media screen and (max-width: 576px) {
+  #logo {
+    max-width: 100px;
+  }
+  nav > a {
+    display: none;
+  }
+  .talk-to-sale {
+    display: none;
+  }
+  .prices>h1{
+    font-size: 2em;
+  }
+  .prices>h2{
+    font-size: 1.3em;
+  }
+  .title{
+    font-size: 1.5em;
+  }
+  .price-container{
+    font-size: 2.5em;
+  }
+  .button-buy{
+    font-size: 1em;
+    padding-right: 0;
+    padding-left: 0;
+    height: 2em;
+    width: 60vw;
+  }
+  .lists{
+    font-size: 0.9em;
+  }
+}
